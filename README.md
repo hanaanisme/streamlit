@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a91fd3c4-6c3d-4a08-b834-3879a44232c7)# Analisis Customer Churn - Telco Dataset
-
 Aplikasi Streamlit ini digunakan untuk melakukan eksplorasi data churn pelanggan pada dataset Telco.
 
 ## Fitur Aplikasi
