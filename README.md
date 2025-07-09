@@ -23,3 +23,7 @@ streamlit run app.py
 
 3. Pastikan file dataset `Telco_customer_churn (1).csv` berada di folder yang sama dengan file script.
 Kalau nama file Python kamu beda, ganti app.py di atas sesuai nama file Python-mu.
+
+4. Hasil deploy
+https://as-ds32b-day40-mabdulhanan.streamlit.app
+
